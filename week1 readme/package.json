@@ -1,0 +1,12 @@
+{
+  "name": "ds-internship-report-generator",
+  "version": "1.0.0",
+  "description": "Script to generate the Week 1 Data Science Internship report in .docx format",
+  "main": "generate_report.js",
+  "scripts": {
+    "start": "node generate_report.js"
+  },
+  "dependencies": {
+    "docx": "^8.5.0"
+  }
+}
